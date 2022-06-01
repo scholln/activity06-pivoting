@@ -205,7 +205,7 @@ However, there is a big disparity in what sighted users see and what a screen re
 
 Here is a short video (4:44) that showcases how screen readers interpret elements on a webpage:
 
-![Screen reader demo for digital accessibility by UC San Fran](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
+[Screen reader demo for digital accessibility by UC San Fran](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
 
 **Update** your table in the previous section to add a *table caption*.
 
